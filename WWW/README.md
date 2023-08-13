@@ -9,7 +9,9 @@ The basic idea of the Computational Art Lab is as follows:
 3.  The users picks a style and the website generates many variants. For example, a shoe viewed from many angles, being wron by many models. Or a game character design sheet with the character smiling, jumping, crawling, in different outfits, etc.
 4.  To automatically create design referneces or character sheets.
 
-5.  
+
+
+   
 
 
    
