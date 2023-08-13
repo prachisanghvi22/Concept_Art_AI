@@ -6,7 +6,7 @@ There are only three OPT opportinites:
 
 1. Make a graphic novel using generative AI along with tutorials on how the graphic novel was made.   
 2. Make a magazine using generative AI along with tutorials on how the graphic novel was made.
-3. Help build tools as shown on the TODO list. [https://github.com/aiskunks/Dinobots](https://github.com/aiskunks/Dinobots)   
+3. Help build tools as shown on the TODO list. [https://github.com/aiskunks/Concept_Art_AI/tree/main/TODO](https://github.com/aiskunks/Concept_Art_AI/tree/main/TODO)   
 4. Extend the Dinobots open-source game.  [https://github.com/aiskunks/Dinobots](https://github.com/aiskunks/Dinobots)    
 
 
