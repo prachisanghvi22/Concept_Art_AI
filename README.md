@@ -16,7 +16,7 @@ Each sub-directory in this repository represents a unique experiment, showcasing
 
 ## Structure
 
-| Codebase                  |         Description          |
+| Directory                 |         Description          |
 | :------------------------ | :--------------------------: |
 | [Animation](Animation)    |          Animation           |
 | [Character_Design](Character_Design) |   Character Design      |
