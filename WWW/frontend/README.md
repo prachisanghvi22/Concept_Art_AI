@@ -1,24 +1,33 @@
-<h1 align="center">Art Lab</h1>
+# <h1 align="center">Art Lab</h1>
 
-## Getting Started
+## 📁 About This Directory
 
-Clone the Repo
+This folder is your hub for the Next.js frontend of our project.
 
-```bash
-yarn
-```
+## 🛠️ How to Contribute
 
-```bash
-yarn dev
-```
+We're utilizing Yarn as our package manager. Please refrain from using npm for the upcoming commands.
 
-Create a new branch and make changes
+Follow these steps to compile the `frontend` module:
 
-Push changes and create a pull request
+1. Navigate to the `../www/frontend` directory.
+2. Run the following command to install:
+    ```bash
+    yarn
+    ```
 
-## Stack
-- Next js
+3. Run the following to start the development:
+    ```bash
+    yarn start
+    ```
+
+Feel free to fire up the development server and start contributing! 🚀
+
+Create a new branch and make changes 🌟
+
+Push changes and create a pull request 📢
+
+## 🔨 Stack
+- Next.js
 - Tailwind CSS
 - Daisy UI
-
-
