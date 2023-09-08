@@ -14,6 +14,18 @@ This repository contains a series of experiments that utilize artificial intelli
 
 Each sub-directory in this repository represents a unique experiment, showcasing the application of AI in diverse areas of concept art creation.
 
+## Structure
+
+| Directory                 |         Description          |
+| :------------------------ | :--------------------------: |
+| [Animation](Animation)    |          Animation           |
+| [Character_Design](Character_Design) |   Character Design      |
+| [Graphic_Novels](Graphic_Novels)   |    Graphic Novels      |
+| [OPT](OPT)                |             OPT              |
+| [Storyboards](Storyboards)|       Storyboards          |
+| [TODO](TODO)              |            TODO             |
+| [WWW](WWW)                |     Art Lab Website   |
+
 ## OPT
 
 For those doing OPT look at the TODO folder for possible volunteer OPT opportunitiy needs.
