@@ -1,5 +1,7 @@
 import { Header } from "components/header";
 import React from "react";
+import { UserAuthForm } from "./user-auth-form";
+import AuthenticationPage from "./authentication-page";
 
 const colors = [
   "text-red-500",
@@ -26,16 +28,10 @@ const Main = () => {
   return (
     <main className="">
       <Header />
+      
       <div className="flex flex-col items-center justify-center h-screen">
-        <h1 className={`text-4xl font-bold ${colorClass} mb-6`}>
-          Random Text Art
-        </h1>
-        <pre className="text-white font-mono bg-gray-800 p-4 rounded-lg">
-          {textArt}
-        </pre>
-        <p className={`text-lg mt-6 ${colorClass}`}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        </p>
+        <AuthenticationPage/>
+        
       </div>
     </main>
   );
