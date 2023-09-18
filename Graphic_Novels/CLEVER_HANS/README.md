@@ -1,3 +1,0 @@
-# CLEVER_HANS
-
-This is the README for CLEVER_HANS.

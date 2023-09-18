@@ -1,1 +1,0 @@
-# Midjourney Prompts Tweet Scrapper
